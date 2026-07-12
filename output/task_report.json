@@ -1,0 +1,8 @@
+{
+    "algorithm": "A*",
+    "collision_free": true,
+    "box_picked": true,
+    "box_delivered": true,
+    "steps": 26,
+    "status": "Success"
+}
